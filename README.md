@@ -10,7 +10,7 @@ Send and Receive Text Files containing infomation in a wireless local area netwo
 5. Credits and Contact
 
 ## 1. Description
-Able to generate maps based on distance data obtained by Lidars and transposed those data into a visually impactful interface. 
+Able to send and recieve text files with the use of a local area network 
 
 ## 2. Architecture of Solution
 Not applicable
@@ -20,14 +20,12 @@ Not applicable
 Refer to my documentation link
 
 ## 4. Results
-RVIZ interface would display the current map location. As the drone moves, the map would be updated in real time.
+Sender would continously send the text file while the Reciever would recieve it.
 
 ## 5. Built with:
-- C++
+- Python
 
 ## 6. Credits and Contact
-Full credits goes to: https://github.com/NickL77/RPLidar_Hector_SLAM
-
 Feel free to contact me regarding any questions
 
 >>Ian: ianlim0309@gmail.com
